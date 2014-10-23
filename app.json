@@ -3,5 +3,11 @@
   "description": "Simple service that checks to see if your website is up",
   "repository": "git@github.com:optional-is/alive.git",
   "logo": "",
-  "keywords": ["python", "flask", "mandrill"]
+  "keywords": ["python", "flask", "mandrill"],
+  "website": "https://github.com/optional-is/alive",
+  "env": {
+    "MANDRILL_USERNAME": "",
+    "MANDRILL_APIKEY": "",
+	"TO_EMAIL":""
+  }
 }
