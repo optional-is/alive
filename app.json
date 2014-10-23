@@ -1,8 +1,7 @@
 {
   "name": "Alive Checker",
   "description": "Simple service that checks to see if your website is up",
-  "repository": "git@github.com:optional-is/alive.git",
-  "logo": "",
+  "repository": "https://github.com/optional-is/alive",
   "keywords": ["python", "flask", "mandrill"],
   "website": "https://github.com/optional-is/alive",
   "env": {
