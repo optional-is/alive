@@ -1,0 +1,7 @@
+{
+  "name": "Alive Checker",
+  "description": "Simple service that checks to see if your website is up",
+  "repository": "git@github.com:optional-is/alive.git",
+  "logo": "",
+  "keywords": ["python", "flask", "mandrill"]
+}
