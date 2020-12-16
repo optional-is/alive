@@ -5,8 +5,10 @@
   "keywords": ["python", "flask", "mandrill"],
   "website": "https://github.com/optional-is/alive",
   "env": {
-    "MANDRILL_USERNAME": "",
-    "MANDRILL_APIKEY": "",
 	"TO_EMAIL":""
-  }
+  },
+  "addons": [
+    "mandrill",
+    "scheduler"
+  ]
 }
